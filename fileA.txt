@@ -1,1 +1,1 @@
-Alex has a DOG.
+This is the content of file A.
