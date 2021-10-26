@@ -1,1 +1,1 @@
- Adding functionalities
+This is the CHANGED content of a file D.
